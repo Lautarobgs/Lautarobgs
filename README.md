@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQEZhbpSakzp4w/profile-displaybackgroundimage-shrink_350_1400/0/1693513004058?e=1698883200&v=beta&t=pAINPOPh0ojL5XJdYOQwKVIMkgFTxKBD1U83T7nsDnU" width="100%">
+<img src="https://media.licdn.com/dms/image/D4E16AQHKN2k8lgl1jA/profile-displaybackgroundimage-shrink_350_1400/0/1693520991630?e=1698883200&v=beta&t=cDUNuHizQXq9gW2V7DWBeFm9IVY23EEZVp4lFeUqpPQ" width="100%">
 
 <h1 align="center">
 Hi, I'm Lautaro Elian Burgos!
@@ -8,12 +8,12 @@ Hi, I'm Lautaro Elian Burgos!
 </h1>
 <p align="center">
 	<a href="https://github.com/Lautarobgs">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Game+Development+Enthusiast;Backend+Passionate;Always+Exploring+New+Tech&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Game+Development+Enthusiast;Backend+Passionate;Always+Exploring+New+Tech&center=true&width=380&height=45">
 	</a>
 </p>
 <hr>
 <pre>
-💻 I'm a Full Stack Developer with a passion for Game Development.
+💻 I'm a Software Developer with a passion for Game Development.
 🕹️ I'm enthusiastic about Backend development and Game Engines.
 🔭 Currently working on honing my skills in Backend development.
 🌱 Exploring new languages and frameworks to expand my knowledge.
