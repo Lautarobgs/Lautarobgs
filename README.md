@@ -17,7 +17,7 @@ Hi, I'm Lautaro Elian Burgos!
 🕹️ I'm enthusiastic about Backend development and Game Engines.
 🔭 Currently working on honing my skills in Backend development.
 🌱 Exploring new languages and frameworks to expand my knowledge.
-🚀 I'm eager to learn Spring Boot for backend development.
+🚀 I'm eager to master Spring Boot & C# for backend development.
 </pre>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
