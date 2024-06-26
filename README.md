@@ -13,11 +13,11 @@ Hi, I'm Lautaro Elian Burgos!
 </p>
 <hr>
 <pre>
-💻 I'm a Software Developer with a passion for Game Development.
-🕹️ I'm enthusiastic about Backend development and Game Engines.
+💻 Software Developer.
+🕹️ I'm enthusiastic about Backend development.
 🔭 Currently working on honing my skills in Backend development.
 🌱 Exploring new languages and frameworks to expand my knowledge.
-🚀 I'm eager to master Spring Boot & C# for backend development.
+🚀 I'm eager to master Spring Framework for backend development.
 </pre>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
